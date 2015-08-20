@@ -1,7 +1,8 @@
 <?php
 /*
 ** Pretty easy stuff - just something that should be a feature really.
-**
+** might actually at some point just use https://github.com/localhost8080/roman-numerals
+** and wrap it nicely for magento. would be kewl. 
 **/
 class Scriptkid_Formatnumber_Helper_Data extends ...
 {
